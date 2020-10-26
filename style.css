@@ -1,0 +1,122 @@
+#picx{
+    background-color:light gray;
+}
+
+.historyBtn {
+ display: block;
+ margin-left:10px;
+ margin-bottom:5px;
+ margin-top:2px;
+
+}
+
+h1 {
+    text-align: center;
+    background:black;
+    color:white;
+    height: 50px;
+}
+
+h5 {
+    text-align: center;
+}
+
+
+#weatherInfo {
+    background-color: white;
+    border: 1px solid black;
+    width: 1000px;
+    height:450px;
+}
+
+#forecast {
+    margin:auto;
+    background-color: white;
+    /* border: 1px solid black; */
+    width: 1000px;
+    height:400px;
+}
+ .fiveDay {
+    background-color: white;
+    /* border: 1px solid black; */
+   
+    
+}
+
+h3 {
+    text-align: center;
+  }
+
+
+
+
+#firstDay{
+    margin-left:30px
+}
+
+#citySearch{
+    margin-left:30px;
+}
+
+#enterButton{
+    margin-left:30px;
+}
+
+#search{
+    margin-left:30px;
+}
+
+
+#city{
+    margin-left:30px;
+}
+
+#input{
+    margin-left:30px;
+}
+#card1{
+    
+    width: 10rem;
+}
+
+
+#card2{
+    width: 10rem;
+}
+
+#card3{
+    width: 10rem;
+}
+
+#card4{
+    width: 10rem;
+}
+
+#card5{
+    width: 10rem;
+}
+
+
+
+
+.card{
+    display:none;
+    float: right;
+    background-color:red;
+    color:white;
+    
+}
+
+#forecast{
+    
+    background-color:light blue
+}
+
+#button {
+    margin-left:30px; 
+    margin-bottom:10px;
+     
+}
+
+ 
+
